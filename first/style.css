@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background-color: #ccc;
+  height: 100vh;
+}
+
+.mainHeader {
+  background-color: #34312E;
+  height: 200px;
+}
+
+.content {
+  margin: 0 auto;
+  background-color: #fff;
+  width: 80%;
+  min-height: calc(100% - 300px);
+}
+
+.mainFooter {
+  background-color: black;
+  width: 80%;
+  height: 100px;
+  margin: 0 auto;
+}
